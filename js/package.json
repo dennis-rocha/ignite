@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "date-fns": "^4.0.0",
-    "phosphor-react": "^1.4.1"
-  }
-}
